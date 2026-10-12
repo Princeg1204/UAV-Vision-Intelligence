@@ -141,7 +141,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open **http://localhost:8501** in your browser.
+Open **https://uav-vision-intelligence-0412.streamlit.app/** in your browser.
 
 ### 5. Use it
 
